@@ -1,0 +1,50 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    color: #1eb6e9;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #1eb6e9;
+}
+a:hover{
+    color: rgb(121, 120, 120);
+    font-weight: bolder;
+}
+
+table{
+    margin: 20px 0;
+    background-color: rgb(131, 131, 131);
+}
+
+th{
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    padding: 5px;
+    font-size: 22px;
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.modulo{
+    background-color: rgb(204, 204, 204);
+}
+
+.dia{
+    background-color: rgb(108, 255, 103);
+}
+
+.horas{
+    background-color: rgb(255, 131, 131);
+}
+
+.asignaturas{
+    background-color: rgb(238, 255, 88);
+}

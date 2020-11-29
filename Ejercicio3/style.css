@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28-nov-2020, 21:02:17
+    Author     : luisr
+*/
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    letter-spacing: 0.5vh;
+    font-weight: 900;
+}
+
+table{
+    border: 1px solid rgb(95, 55, 2);
+    background-color: burlywood;
+}
+
+.disponibles{
+    background-color: lightgreen;
+    border: 1px solid rgb(95, 55, 2);
+    padding: 3px;
+}
+
+.sacadas{
+    background-color: rgb(223, 73, 73);
+    border: 1px solid rgb(95, 55, 2);
+    padding: 3px;
+}
+
+#sacarBola{
+    margin: 20px 0;
+    padding: 7px 25px;
+}
